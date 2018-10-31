@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ```
 ### Git Clone
 ```sh
-git clone https://github.com/wuhuikai/FaceSwap.git
+git clone https://github.com/etosworld/etos-faceswap
 ```
 ### Swap Your Face
 ```sh
