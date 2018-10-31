@@ -1,0 +1,4 @@
+dlib
+numpy
+opencv-python
+scipy
