@@ -1,3 +1,10 @@
+
+
+### NEW Low Poly Face Generator Demo Online  
+ 
+Our Face Detector Based Low Poly Face Generator is online. Visit [here](http://polyface.etos.world) and enjoy!
+
+
 ### etos face swap
 Swap face between two photos for Python 3 with OpenCV and dlib.
 
