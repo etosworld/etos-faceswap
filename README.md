@@ -3,6 +3,7 @@
 ### NEW Low Poly Face Generator Demo Online  
  
 Our Face Detector Based Low Poly Face Generator is online. Visit [here](http://polyface.etos.world) and enjoy!
+![](imgs/polyface2.jpg)
 
 
 ### etos face swap
