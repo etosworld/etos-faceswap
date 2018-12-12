@@ -1,9 +1,9 @@
 
 
-### NEW Low Poly Face Generator Demo Online  
+### NEW Sketch Drawing Generator Demo Online  
  
-Our Face Detector Based Low Poly Face Generator is online. Visit [here](http://polyface.etos.world) and enjoy!
-![](imgs/polyface2.jpg)
+Our Sketch Drawing Generator is online. Visit [here](http://sketch.etos.world) and enjoy!
+![](imgs/sketch_demo.jpg)
 
 
 ### etos face swap
