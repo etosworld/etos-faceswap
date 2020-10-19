@@ -1,15 +1,9 @@
 
 
-### NEW Sketch Drawing Generator Demo Online  
- 
-Our Sketch Drawing Generator is online. Visit [here](http://sketch.etos.world) and enjoy!
-![](imgs/sketch_demo.jpg)
-
 
 ### etos face swap
 Swap face between two photos for Python 3 with OpenCV and dlib.
 
-a tool for [etos](https://etos.world) ecosystem.
 
 ### Get Started
 ```sh
